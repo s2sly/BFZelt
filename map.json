@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Youtube",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/O48AlwVZa-c"
                 }, 
