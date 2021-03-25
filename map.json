@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/yopad.eu\/p\/BF-G%C3%A4stebuch"
+                 "value":"https:\/\/pad.livingutopia.org\/BF_G%C3%A4stebuch"
                 }],
          "type":"tilelayer",
          "visible":true,
