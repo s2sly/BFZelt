@@ -430,7 +430,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/Lh4uynHuEa80-c?controls=0&&autoplay=1&rel=0"
+                         "value":"https:\/\/www.youtube.com\/embed\/Lh4uynHuEa8-c?controls=0&&autoplay=1&rel=0s"
                         }, 
                         {
                          "name":"openWebsitePolicy",
